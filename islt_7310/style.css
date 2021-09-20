@@ -1,1 +1,12 @@
 #header1 {color: #660099}
+.nav {
+    display: inline; 
+    border: none;
+    text-decoration: underline;
+    text-align: center;
+    width: 150px;
+    list-style-type: none;
+    padding: 35px 35px 35px 35px;
+    margin-top: 0;
+    margin-left: 20px;
+    }
